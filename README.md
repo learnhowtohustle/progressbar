@@ -1,6 +1,6 @@
 # 77-progressbar
 
-Spolszczony Skrypt na progressbar ze zmienionym css [QB-Core]
+Spolszczony Skrypt na progressbar ze zmienionym CSS (77rp style) [QB-Core]
 
 ## <ins>Preview
 
